@@ -1,51 +1,6 @@
-#  h1一级标题
-## h2
-### h3
-#### h4
 
-![test](link)
-
-```javascript
-//防抖
-function debounce(func, delay) {
-  let timer;
-  return function(...args) {
-    clearTimeout(timer);
-    timer = setTimeout(() => {
-      func.apply(this, args);
-    }, delay);
-  };
-}
-
-// 使用示例
-const debouncedFunc = debounce(() => {
-  console.log(console.log(this));
-}, 300);
-
-
-
-```
-
-line
----
-
-这里是 **加粗** 这里是 ***加粗加斜*** 这是 ~~划线~~
-强调 `ili`
-强调数学公式 $y=mc*a\\
-\mu=\alpha+\beta^2$
-
-[baidu链接](   http://www.baidu.com)
-
-## checkbox
-
-- [ ] 看react
-- [X] 吃饭
-
-
-| title | meaning |
-| ----- | ------- |
-| name  | text    |
-
+# 本笔记基于以下课程，为我个人学习过程中的笔记，感谢视频课程原作者
+[react完整课程，从基础到实战高效通关(有vue基础)]([link](https://www.bilibili.com/video/BV1Mu411p7cV/))
 
 # react文件夹和文件说明 
 ## public 文件夹
