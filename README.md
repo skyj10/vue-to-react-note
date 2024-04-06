@@ -1,6 +1,6 @@
 
 # 本笔记基于以下课程，为我个人学习过程中的笔记，感谢视频课程原作者
-[react完整课程，从基础到实战高效通关(有vue基础)]([link](https://www.bilibili.com/video/BV1Mu411p7cV/))
+[react完整课程，从基础到实战高效通关(有vue基础)](https://www.bilibili.com/video/BV1Mu411p7cV/)
 
 # react文件夹和文件说明 
 ## public 文件夹
